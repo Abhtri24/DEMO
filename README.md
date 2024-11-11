@@ -1,3 +1,3 @@
 # DEMO
 DEMO repository
-author - abhinav
+author - abhinav tripathi
